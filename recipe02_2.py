@@ -1,3 +1,6 @@
+# appName = soojin3013
+# consumer_key='xP7VXTgTpdchvWchMUH5Pg'
+
 import os
 import sys
 import datetime
