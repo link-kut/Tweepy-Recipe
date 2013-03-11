@@ -4,8 +4,8 @@
 import tweepy
 import json
     
-auth = tweepy.OAuthHandler(consumer_key='xP7VXTgTpdchvWchMUH5Pg', consumer_secret='NumKXQQUBrwhzS25gdpLe2KsGoiEFRzlqAFg8elvYE') 
-auth.set_access_token(key='396293322-0uPKFk2X54Gd2nDNQ9h1RtLmAgNx5LnB5ZDokj2h', secret='3WPhYkRSaLMwAWg0jgPWEgWBUSxijKaEMKnysFOWDqg')
+auth = tweepy.OAuthHandler(consumer_key='xxxx', consumer_secret='xxxx') 
+auth.set_access_token(key='xxxxx', secret='xxxx')
 
 api = tweepy.API(auth)
 
