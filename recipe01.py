@@ -4,7 +4,7 @@
 import tweepy
 import webbrowser
 
-auth = tweepy.OAuthHandler(consumer_key='xP7VXTgTpdchvWchMUH5Pg', consumer_secret='NumKXQQUBrwhzS25gdpLe2KsGoiEFRzlqAFg8elvYE') 
+auth = tweepy.OAuthHandler(consumer_key='xxx', consumer_secret='xxx') 
 auth_url = auth.get_authorization_url()
 print('Please authorze: ' + auth_url)
 webbrowser.open(auth_url)
