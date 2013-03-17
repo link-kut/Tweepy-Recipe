@@ -12,8 +12,8 @@ RESULTS_PER_PAGE = 100
 
 # Get the trending topics
 
-auth = tweepy.OAuthHandler(consumer_key='WzM7Vji6g7ppvsKhoLj90Q', consumer_secret='YbqAJmmJtzR1uUyQERbhNTlq641DapEDpvuu84B5Co')
-auth.set_access_token(key='225378669-k5IChjgAasI5X8yFDTDIhTFgInLLUzMLFtzelt4D', secret='1SqCwJpFyy710iG7aCJt411LEKSUAttudvKwRv5mcQ')
+auth = tweepy.OAuthHandler(consumer_key='xxx', consumer_secret='xxx')
+auth.set_access_token(key='xxx', secret='xxx')
 
 api = tweepy.API(auth)
 
