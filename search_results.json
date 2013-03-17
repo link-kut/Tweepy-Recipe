@@ -1,0 +1,803 @@
+[
+ {
+  "iso_language_code": "en", 
+  "entities": {
+   "urls_indices": [], 
+   "url": [], 
+   "hashtags_indices": [], 
+   "user_mentions_indices": [
+    {
+     "indices": [
+      3, 
+      14
+     ], 
+     "screen_name": "Angel0Ruiz"
+    }
+   ], 
+   "hashtag": [], 
+   "user_name": [
+    "Angel0Ruiz"
+   ]
+  }, 
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/3384407517/d60e31601e753dc5b19baef2011cc227_normal.jpeg", 
+  "from_user_id_str": "972388170", 
+  "text": "RT @Angel0Ruiz: Dog Blood = skirllex + boyz noize = Mind fuck.", 
+  "from_user_name": "sof\u00ed caveiro", 
+  "profile_image_url": "http://a0.twimg.com/profile_images/3384407517/d60e31601e753dc5b19baef2011cc227_normal.jpeg", 
+  "id": 313400162691190785, 
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;", 
+  "id_str": "313400162691190785", 
+  "from_user": "soficaveiro", 
+  "from_user_id": 972388170, 
+  "geo": null, 
+  "created_at": "Sun, 17 Mar 2013 21:23:16 +0000", 
+  "metadata": {
+   "result_type": "recent"
+  }
+ }, 
+ {
+  "iso_language_code": "en", 
+  "entities": {
+   "urls_indices": [], 
+   "url": [], 
+   "hashtags_indices": [], 
+   "user_mentions_indices": [], 
+   "hashtag": [], 
+   "user_name": []
+  }, 
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/3283705384/45cfa59b4b8dddf318cd31cbbb4d88d1_normal.jpeg", 
+  "from_user_id_str": "293398969", 
+  "text": "DOG BLOOD IS BOOOOOOOON", 
+  "from_user_name": "Zeno Driesen", 
+  "profile_image_url": "http://a0.twimg.com/profile_images/3283705384/45cfa59b4b8dddf318cd31cbbb4d88d1_normal.jpeg", 
+  "id": 313400153438580736, 
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+  "id_str": "313400153438580736", 
+  "from_user": "zenod3sn", 
+  "from_user_id": 293398969, 
+  "geo": null, 
+  "created_at": "Sun, 17 Mar 2013 21:23:13 +0000", 
+  "metadata": {
+   "result_type": "recent"
+  }
+ }, 
+ {
+  "iso_language_code": "en", 
+  "to_user_name": "\u270c The Kandi Man \u270c", 
+  "to_user_id_str": "413546205", 
+  "entities": {
+   "urls_indices": [], 
+   "url": [], 
+   "hashtags_indices": [], 
+   "user_mentions_indices": [
+    {
+     "indices": [
+      0, 
+      9
+     ], 
+     "screen_name": "max_date"
+    }
+   ], 
+   "hashtag": [], 
+   "user_name": [
+    "max_date"
+   ]
+  }, 
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/3321853348/d9b1696fb8d6c2ebaa996ae137996f44_normal.jpeg", 
+  "from_user_id_str": "314782114", 
+  "text": "@max_date yeah that's what they did but they introduced dog blood so Idrk haha \ud83d\ude33", 
+  "from_user_name": "Samantha \u262f Messina", 
+  "in_reply_to_status_id_str": "313399831605436416", 
+  "profile_image_url": "http://a0.twimg.com/profile_images/3321853348/d9b1696fb8d6c2ebaa996ae137996f44_normal.jpeg", 
+  "id": 313400149462351873, 
+  "to_user": "max_date", 
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;", 
+  "in_reply_to_status_id": 313399831605436416, 
+  "id_str": "313400149462351873", 
+  "from_user": "SamanthaMessina", 
+  "from_user_id": 314782114, 
+  "to_user_id": 413546205, 
+  "geo": null, 
+  "created_at": "Sun, 17 Mar 2013 21:23:12 +0000", 
+  "metadata": {
+   "result_type": "recent"
+  }
+ }, 
+ {
+  "iso_language_code": "en", 
+  "entities": {
+   "urls_indices": [], 
+   "url": [], 
+   "hashtags_indices": [], 
+   "user_mentions_indices": [], 
+   "hashtag": [], 
+   "user_name": []
+  }, 
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/3263136222/9d6f85f0f7b69a3294894128227cd4f8_normal.jpeg", 
+  "from_user_id_str": "885524264", 
+  "text": "talk as much shit as you want, no dj plays a live set like Skrill... dog blood is killing it", 
+  "from_user_name": "Arji'el", 
+  "profile_image_url": "http://a0.twimg.com/profile_images/3263136222/9d6f85f0f7b69a3294894128227cd4f8_normal.jpeg", 
+  "id": 313400140918579200, 
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+  "id_str": "313400140918579200", 
+  "from_user": "RGLott", 
+  "from_user_id": 885524264, 
+  "geo": null, 
+  "created_at": "Sun, 17 Mar 2013 21:23:10 +0000", 
+  "metadata": {
+   "result_type": "recent"
+  }
+ }, 
+ {
+  "iso_language_code": "es", 
+  "entities": {
+   "urls_indices": [], 
+   "url": [], 
+   "hashtags_indices": [], 
+   "user_mentions_indices": [], 
+   "hashtag": [], 
+   "user_name": []
+  }, 
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/3176055356/4b0d168e6527724f65a2a9058f0e7f60_normal.jpeg", 
+  "from_user_id_str": "171167410", 
+  "text": "Esos edificios de Miami que se reflejan en el escenario donde toca Dog Blood.", 
+  "from_user_name": "Mario Cruz Olan", 
+  "profile_image_url": "http://a0.twimg.com/profile_images/3176055356/4b0d168e6527724f65a2a9058f0e7f60_normal.jpeg", 
+  "id": 313400124766306304, 
+  "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+  "id_str": "313400124766306304", 
+  "from_user": "MarioSolveig", 
+  "from_user_id": 171167410, 
+  "geo": null, 
+  "created_at": "Sun, 17 Mar 2013 21:23:07 +0000", 
+  "metadata": {
+   "result_type": "recent"
+  }
+ }, 
+ {
+  "iso_language_code": "sv", 
+  "entities": {
+   "urls_indices": [], 
+   "url": [], 
+   "hashtags_indices": [], 
+   "user_mentions_indices": [], 
+   "hashtag": [], 
+   "user_name": []
+  }, 
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/3363195420/c543b29da8fe9d5f16db74cdac8d0839_normal.jpeg", 
+  "from_user_id_str": "225354016", 
+  "text": "Skrillex tem tipo metade da altura do Dog Blood .", 
+  "from_user_name": "Nuno Pedrosa", 
+  "profile_image_url": "http://a0.twimg.com/profile_images/3363195420/c543b29da8fe9d5f16db74cdac8d0839_normal.jpeg", 
+  "id": 313400122736250880, 
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+  "id_str": "313400122736250880", 
+  "from_user": "NunoPedrosa9", 
+  "from_user_id": 225354016, 
+  "geo": null, 
+  "created_at": "Sun, 17 Mar 2013 21:23:06 +0000", 
+  "metadata": {
+   "result_type": "recent"
+  }
+ }, 
+ {
+  "iso_language_code": "en", 
+  "entities": {
+   "urls_indices": [], 
+   "url": [], 
+   "hashtags_indices": [
+    {
+     "indices": [
+      48, 
+      56
+     ], 
+     "hashtag": "UltraTV"
+    }
+   ], 
+   "user_mentions_indices": [], 
+   "hashtag": [
+    "UltraTV"
+   ], 
+   "user_name": []
+  }, 
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2386719768/image_normal.jpg", 
+  "from_user_id_str": "533950153", 
+  "text": "Skrillex and Dog Blood are killing it right now #UltraTV", 
+  "from_user_name": "Jeremy Einhorn", 
+  "profile_image_url": "http://a0.twimg.com/profile_images/2386719768/image_normal.jpg", 
+  "id": 313400122463629313, 
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+  "id_str": "313400122463629313", 
+  "from_user": "jeremy_einhorn", 
+  "from_user_id": 533950153, 
+  "geo": null, 
+  "created_at": "Sun, 17 Mar 2013 21:23:06 +0000", 
+  "metadata": {
+   "result_type": "recent"
+  }
+ }, 
+ {
+  "iso_language_code": "en", 
+  "entities": {
+   "urls_indices": [], 
+   "url": [], 
+   "hashtags_indices": [
+    {
+     "indices": [
+      75, 
+      85
+     ], 
+     "hashtag": "ULTRALIVE"
+    }
+   ], 
+   "user_mentions_indices": [
+    {
+     "indices": [
+      3, 
+      18
+     ], 
+     "screen_name": "yourqueenmolly"
+    }
+   ], 
+   "hashtag": [
+    "ULTRALIVE"
+   ], 
+   "user_name": [
+    "yourqueenmolly"
+   ]
+  }, 
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/3369272628/5c3c190d52f55c06aff31053559e7407_normal.jpeg", 
+  "from_user_id_str": "964956151", 
+  "text": "RT @yourqueenmolly: Props to Dog Blood, I had no idea they went this hard! #ULTRALIVE", 
+  "from_user_name": "Rich Marandola", 
+  "profile_image_url": "http://a0.twimg.com/profile_images/3369272628/5c3c190d52f55c06aff31053559e7407_normal.jpeg", 
+  "id": 313400112481185792, 
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;", 
+  "id_str": "313400112481185792", 
+  "from_user": "RichRozayyy", 
+  "from_user_id": 964956151, 
+  "geo": null, 
+  "created_at": "Sun, 17 Mar 2013 21:23:04 +0000", 
+  "metadata": {
+   "result_type": "recent"
+  }
+ }, 
+ {
+  "iso_language_code": "en", 
+  "entities": {
+   "urls_indices": [], 
+   "url": [], 
+   "hashtags_indices": [
+    {
+     "indices": [
+      0, 
+      10
+     ], 
+     "hashtag": "ULTRALIVE"
+    }
+   ], 
+   "user_mentions_indices": [], 
+   "hashtag": [
+    "ULTRALIVE"
+   ], 
+   "user_name": []
+  }, 
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/3235873147/da27ffa3a7f5bb5daec817d3185d879e_normal.jpeg", 
+  "from_user_id_str": "197907144", 
+  "text": "#ULTRALIVE lets goo dog blood!", 
+  "from_user_name": "Ozcan Sayin", 
+  "profile_image_url": "http://a0.twimg.com/profile_images/3235873147/da27ffa3a7f5bb5daec817d3185d879e_normal.jpeg", 
+  "id": 313400108731486208, 
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+  "place": {
+   "type": "COUNTRY", 
+   "id": "682c5a667856ef42", 
+   "full_name": "Turkey"
+  }, 
+  "id_str": "313400108731486208", 
+  "from_user": "DJOzcanSayin", 
+  "from_user_id": 197907144, 
+  "geo": {
+   "type": "Point", 
+   "coordinates": [
+    0.0, 
+    0.0
+   ]
+  }, 
+  "created_at": "Sun, 17 Mar 2013 21:23:03 +0000", 
+  "metadata": {
+   "result_type": "recent"
+  }
+ }, 
+ {
+  "iso_language_code": "en", 
+  "entities": {
+   "urls_indices": [], 
+   "url": [], 
+   "hashtags_indices": [
+    {
+     "indices": [
+      26, 
+      36
+     ], 
+     "hashtag": "UltraLive"
+    }
+   ], 
+   "user_mentions_indices": [], 
+   "hashtag": [
+    "UltraLive"
+   ], 
+   "user_name": []
+  }, 
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/3245888144/0290f9e19a5a2ebee258b47fd457d8f6_normal.jpeg", 
+  "from_user_id_str": "309108047", 
+  "text": "ACID MOTHERFUCKING TECHNO #UltraLive Dog blood killing it rn !!!", 
+  "from_user_name": "Jaysr", 
+  "profile_image_url": "http://a0.twimg.com/profile_images/3245888144/0290f9e19a5a2ebee258b47fd457d8f6_normal.jpeg", 
+  "id": 313400100498075648, 
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;", 
+  "id_str": "313400100498075648", 
+  "from_user": "Jay_sierra_", 
+  "from_user_id": 309108047, 
+  "geo": null, 
+  "created_at": "Sun, 17 Mar 2013 21:23:01 +0000", 
+  "metadata": {
+   "result_type": "recent"
+  }
+ }, 
+ {
+  "iso_language_code": "sv", 
+  "entities": {
+   "urls_indices": [], 
+   "url": [], 
+   "hashtags_indices": [], 
+   "user_mentions_indices": [], 
+   "hashtag": [], 
+   "user_name": []
+  }, 
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/3376728942/9521c5026e4145e714d491d37cf96497_normal.jpeg", 
+  "from_user_id_str": "62929213", 
+  "text": "Quero mt esse set de dog blood! Ta sndksnxkamskansskdmkfnfj", 
+  "from_user_name": "Marie Konishi", 
+  "profile_image_url": "http://a0.twimg.com/profile_images/3376728942/9521c5026e4145e714d491d37cf96497_normal.jpeg", 
+  "id": 313400081162309632, 
+  "source": "&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot;&gt;Twitter for iPad&lt;/a&gt;", 
+  "id_str": "313400081162309632", 
+  "from_user": "mariekonishi", 
+  "from_user_id": 62929213, 
+  "geo": null, 
+  "created_at": "Sun, 17 Mar 2013 21:22:56 +0000", 
+  "metadata": {
+   "result_type": "recent"
+  }
+ }, 
+ {
+  "iso_language_code": "en", 
+  "entities": {
+   "urls_indices": [
+    {
+     "url": "http://t.co/A16qIWpqYM", 
+     "indices": [
+      95, 
+      117
+     ]
+    }
+   ], 
+   "url": [
+    "http://t.co/A16qIWpqYM"
+   ], 
+   "hashtags_indices": [
+    {
+     "indices": [
+      79, 
+      83
+     ], 
+     "hashtag": "UMF"
+    }, 
+    {
+     "indices": [
+      84, 
+      94
+     ], 
+     "hashtag": "UltraLive"
+    }
+   ], 
+   "user_mentions_indices": [
+    {
+     "indices": [
+      3, 
+      13
+     ], 
+     "screen_name": "EDM_Spain"
+    }
+   ], 
+   "hashtag": [
+    "UMF", 
+    "UltraLive"
+   ], 
+   "user_name": [
+    "EDM_Spain"
+   ]
+  }, 
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/3357402377/6566bf8f5db77b29b8621dcd5cc5c3ea_normal.jpeg", 
+  "from_user_id_str": "353917428", 
+  "text": "RT @EDM_Spain: Dog Blood poniendo: Make It Bun Dem (Alvin Risk Remix), temazo! #UMF #UltraLive http://t.co/A16qIWpqYM", 
+  "from_user_name": "Dj Cacto", 
+  "profile_image_url": "http://a0.twimg.com/profile_images/3357402377/6566bf8f5db77b29b8621dcd5cc5c3ea_normal.jpeg", 
+  "id": 313400057103806465, 
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;", 
+  "id_str": "313400057103806465", 
+  "from_user": "CactoOfficial", 
+  "from_user_id": 353917428, 
+  "geo": null, 
+  "created_at": "Sun, 17 Mar 2013 21:22:50 +0000", 
+  "metadata": {
+   "result_type": "recent"
+  }
+ }, 
+ {
+  "iso_language_code": "fr", 
+  "to_user_name": "Soldier' ", 
+  "to_user_id_str": "177072888", 
+  "entities": {
+   "urls_indices": [], 
+   "url": [], 
+   "hashtags_indices": [], 
+   "user_mentions_indices": [
+    {
+     "indices": [
+      0, 
+      7
+     ], 
+     "screen_name": "iTatoU"
+    }, 
+    {
+     "indices": [
+      8, 
+      18
+     ], 
+     "screen_name": "iamcuchun"
+    }
+   ], 
+   "hashtag": [], 
+   "user_name": [
+    "iTatoU", 
+    "iamcuchun"
+   ]
+  }, 
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/3389310848/79c43eaf3037b94f7a5ae5fb881a2053_normal.jpeg", 
+  "from_user_id_str": "1100414359", 
+  "text": "@iTatoU @iamcuchun en la tarima de dog blood donde tu estas?", 
+  "from_user_name": "Pocho Panda", 
+  "in_reply_to_status_id_str": "313399900241014784", 
+  "profile_image_url": "http://a0.twimg.com/profile_images/3389310848/79c43eaf3037b94f7a5ae5fb881a2053_normal.jpeg", 
+  "id": 313400051676364800, 
+  "to_user": "iTatoU", 
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;", 
+  "in_reply_to_status_id": 313399900241014784, 
+  "id_str": "313400051676364800", 
+  "from_user": "PochoPanda", 
+  "from_user_id": 1100414359, 
+  "to_user_id": 177072888, 
+  "geo": null, 
+  "created_at": "Sun, 17 Mar 2013 21:22:49 +0000", 
+  "metadata": {
+   "result_type": "recent"
+  }
+ }, 
+ {
+  "iso_language_code": "en", 
+  "entities": {
+   "urls_indices": [], 
+   "url": [], 
+   "hashtags_indices": [
+    {
+     "indices": [
+      82, 
+      92
+     ], 
+     "hashtag": "UltraLIVE"
+    }, 
+    {
+     "indices": [
+      93, 
+      101
+     ], 
+     "hashtag": "UMF2013"
+    }
+   ], 
+   "user_mentions_indices": [], 
+   "hashtag": [
+    "UltraLIVE", 
+    "UMF2013"
+   ], 
+   "user_name": []
+  }, 
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/3279232348/92472669567bd5bcd7fbf64d36abdcb4_normal.jpeg", 
+  "from_user_id_str": "350971841", 
+  "text": "Dog Blood is playing some heavy stuff but at the same time its chill af. Me Gusta #UltraLIVE #UMF2013", 
+  "from_user_name": "SuferBroBryan", 
+  "profile_image_url": "http://a0.twimg.com/profile_images/3279232348/92472669567bd5bcd7fbf64d36abdcb4_normal.jpeg", 
+  "id": 313400046446075904, 
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;", 
+  "id_str": "313400046446075904", 
+  "from_user": "TheFatBoyBryan", 
+  "from_user_id": 350971841, 
+  "geo": null, 
+  "created_at": "Sun, 17 Mar 2013 21:22:48 +0000", 
+  "metadata": {
+   "result_type": "recent"
+  }
+ }, 
+ {
+  "iso_language_code": "en", 
+  "entities": {
+   "urls_indices": [], 
+   "url": [], 
+   "hashtags_indices": [], 
+   "user_mentions_indices": [
+    {
+     "indices": [
+      3, 
+      13
+     ], 
+     "screen_name": "PituWelch"
+    }
+   ], 
+   "hashtag": [], 
+   "user_name": [
+    "PituWelch"
+   ]
+  }, 
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/3384407517/d60e31601e753dc5b19baef2011cc227_normal.jpeg", 
+  "from_user_id_str": "972388170", 
+  "text": "RT @PituWelch: Dog Blood!", 
+  "from_user_name": "sof\u00ed caveiro", 
+  "profile_image_url": "http://a0.twimg.com/profile_images/3384407517/d60e31601e753dc5b19baef2011cc227_normal.jpeg", 
+  "id": 313400035381501952, 
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;", 
+  "id_str": "313400035381501952", 
+  "from_user": "soficaveiro", 
+  "from_user_id": 972388170, 
+  "geo": null, 
+  "created_at": "Sun, 17 Mar 2013 21:22:45 +0000", 
+  "metadata": {
+   "result_type": "recent"
+  }
+ }, 
+ {
+  "iso_language_code": "en", 
+  "entities": {
+   "urls_indices": [], 
+   "url": [], 
+   "hashtags_indices": [], 
+   "user_mentions_indices": [
+    {
+     "indices": [
+      3, 
+      12
+     ], 
+     "screen_name": "AsotDrop"
+    }
+   ], 
+   "hashtag": [], 
+   "user_name": [
+    "AsotDrop"
+   ]
+  }, 
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/3385967953/620f610e1e61108568599c3812f25ef0_normal.jpeg", 
+  "from_user_id_str": "66047405", 
+  "text": "RT @AsotDrop: Dog blood fucking killing it", 
+  "from_user_name": "Christiana Smith", 
+  "profile_image_url": "http://a0.twimg.com/profile_images/3385967953/620f610e1e61108568599c3812f25ef0_normal.jpeg", 
+  "id": 313400034509062144, 
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;", 
+  "id_str": "313400034509062144", 
+  "from_user": "Christianasmith", 
+  "from_user_id": 66047405, 
+  "geo": null, 
+  "created_at": "Sun, 17 Mar 2013 21:22:45 +0000", 
+  "metadata": {
+   "result_type": "recent"
+  }
+ }, 
+ {
+  "iso_language_code": "en", 
+  "entities": {
+   "urls_indices": [], 
+   "url": [], 
+   "hashtags_indices": [], 
+   "user_mentions_indices": [
+    {
+     "indices": [
+      3, 
+      15
+     ], 
+     "screen_name": "hannahraee_"
+    }
+   ], 
+   "hashtag": [], 
+   "user_name": [
+    "hannahraee_"
+   ]
+  }, 
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/3392825172/80de405832f2803f2958f89694ca17b4_normal.jpeg", 
+  "from_user_id_str": "313119778", 
+  "text": "RT @hannahraee_: Dog blood sucked on nye this is so much better !!!\ud83d\ude33", 
+  "from_user_name": "christian sanchez\u2122", 
+  "profile_image_url": "http://a0.twimg.com/profile_images/3392825172/80de405832f2803f2958f89694ca17b4_normal.jpeg", 
+  "id": 313400023402573824, 
+  "source": "&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot;&gt;Twitter for iPad&lt;/a&gt;", 
+  "id_str": "313400023402573824", 
+  "from_user": "hiddnvallysnch", 
+  "from_user_id": 313119778, 
+  "geo": null, 
+  "created_at": "Sun, 17 Mar 2013 21:22:42 +0000", 
+  "metadata": {
+   "result_type": "recent"
+  }
+ }, 
+ {
+  "iso_language_code": "pt", 
+  "entities": {
+   "urls_indices": [], 
+   "url": [], 
+   "hashtags_indices": [], 
+   "user_mentions_indices": [
+    {
+     "indices": [
+      3, 
+      12
+     ], 
+     "screen_name": "Skrillex"
+    }
+   ], 
+   "hashtag": [], 
+   "user_name": [
+    "Skrillex"
+   ]
+  }, 
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/3316629558/af3f7841208df356a9d924015e65a710_normal.jpeg", 
+  "from_user_id_str": "1115451409", 
+  "text": "oi @Skrillex , \u00e9s fixe mas Dog Blood \u00e9 um nome horrivel", 
+  "from_user_name": "a FIxe ", 
+  "profile_image_url": "http://a0.twimg.com/profile_images/3316629558/af3f7841208df356a9d924015e65a710_normal.jpeg", 
+  "id": 313400020000972800, 
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+  "id_str": "313400020000972800", 
+  "from_user": "fifimgf", 
+  "from_user_id": 1115451409, 
+  "geo": null, 
+  "created_at": "Sun, 17 Mar 2013 21:22:42 +0000", 
+  "metadata": {
+   "result_type": "recent"
+  }
+ }, 
+ {
+  "iso_language_code": "en", 
+  "entities": {
+   "urls_indices": [
+    {
+     "url": "http://t.co/RzIXA31gxZ", 
+     "indices": [
+      116, 
+      138
+     ]
+    }
+   ], 
+   "url": [
+    "http://t.co/RzIXA31gxZ"
+   ], 
+   "hashtags_indices": [
+    {
+     "indices": [
+      21, 
+      32
+     ], 
+     "hashtag": "NowPlaying"
+    }, 
+    {
+     "indices": [
+      108, 
+      112
+     ], 
+     "hashtag": "UMF"
+    }, 
+    {
+     "indices": [
+      142, 
+      152
+     ], 
+     "hashtag": "ULTRALIVE"
+    }, 
+    {
+     "indices": [
+      153, 
+      162
+     ], 
+     "hashtag": "DogBlood"
+    }
+   ], 
+   "user_mentions_indices": [
+    {
+     "indices": [
+      3, 
+      19
+     ], 
+     "screen_name": "ElectMusicSpain"
+    }
+   ], 
+   "hashtag": [
+    "NowPlaying", 
+    "UMF", 
+    "ULTRALIVE", 
+    "DogBlood"
+   ], 
+   "user_name": [
+    "ElectMusicSpain"
+   ]
+  }, 
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/3279652522/7860566d84324f55ca2db3ea66b6b6e1_normal.png", 
+  "from_user_id_str": "488889979", 
+  "text": "RT @ElectMusicSpain: #NowPlaying: Skrillex &amp; Damian - Make It Bun Dem (Alvin Risk Remix) || Dog Blood - #UMF || http://t.co/RzIXA31gxZ || #ULTRALIVE #DogBlood", 
+  "from_user_name": "Andr\u00e9s Mart\u00ednez", 
+  "profile_image_url": "http://a0.twimg.com/profile_images/3279652522/7860566d84324f55ca2db3ea66b6b6e1_normal.png", 
+  "id": 313400019430555649, 
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;", 
+  "id_str": "313400019430555649", 
+  "from_user": "MtnezAndres", 
+  "from_user_id": 488889979, 
+  "geo": null, 
+  "created_at": "Sun, 17 Mar 2013 21:22:41 +0000", 
+  "metadata": {
+   "result_type": "recent"
+  }
+ }, 
+ {
+  "iso_language_code": "en", 
+  "entities": {
+   "urls_indices": [], 
+   "url": [], 
+   "hashtags_indices": [
+    {
+     "indices": [
+      77, 
+      87
+     ], 
+     "hashtag": "ultralive"
+    }
+   ], 
+   "user_mentions_indices": [
+    {
+     "indices": [
+      96, 
+      107
+     ], 
+     "screen_name": "staticfade"
+    }
+   ], 
+   "hashtag": [
+    "ultralive"
+   ], 
+   "user_name": [
+    "staticfade"
+   ]
+  }, 
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/994913521/Picture_4_normal.png", 
+  "from_user_id_str": "21344176", 
+  "text": "Holy my goodness this Skrillex + Boys Noize duo aka Dog Blood is sick nasty. #ultralive (Sorry, @staticfade!)", 
+  "from_user_name": "JCT", 
+  "profile_image_url": "http://a0.twimg.com/profile_images/994913521/Picture_4_normal.png", 
+  "id": 313400016247062530, 
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+  "id_str": "313400016247062530", 
+  "from_user": "DirtyTerry", 
+  "from_user_id": 21344176, 
+  "geo": null, 
+  "created_at": "Sun, 17 Mar 2013 21:22:41 +0000", 
+  "metadata": {
+   "result_type": "recent"
+  }
+ }
+]
