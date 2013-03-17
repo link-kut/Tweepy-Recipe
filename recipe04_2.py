@@ -7,8 +7,8 @@ import tweepy
 #from recipe__extract_tweet_entities import get_entities
 from recipe03_twitter import get_entities
 
-MAX_PAGES = 15
-RESULTS_PER_PAGE = 100
+MAX_PAGES = 2
+RESULTS_PER_PAGE = 2
 
 # Get the trending topics
 
