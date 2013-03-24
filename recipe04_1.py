@@ -21,3 +21,9 @@ for page in range(1, MAX_PAGES+1):
 
 print json.dumps(search_results, indent=1)
 
+for data in search_results:
+    print '{'
+	for key, value in data.iteritems():
+		print '"' , key , '" : ' , value
+	print '}'
+
