@@ -33,3 +33,14 @@ plt.axis([0, 1, min(c_list), max(c_list)])
 plt.subplot(2,1,2)
 plt.plot(p_list, d_list, '-o')
 plt.axis([0, 1, min(d_list), max(d_list)])	
+
+'''
+g = net.erdos_renyi_graph(200, 0.5)
+plt.hist(g.degree().values(), 10)
+
+g = net.watts_strogatz_graph(300, 4, 0.2)
+plt.hist(g.degree().values(), 10)
+
+g = net.barabasi_albert_graph(300, 1)
+plt.hist(g.degree().values(), 10)
+'''
