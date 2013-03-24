@@ -7,13 +7,8 @@ import pylab as pl
 #net.draw(g)
 #plt.show()
 
-def clustering_coefficiency_from_graph1(p):
-  g = net.watts_strogatz_graph(300, 4, p)
-	c_list = algo.clustering(g).values()
-	return (sum(c_list) / len(c_list), net.diameter(g))
-
-def clustering_coefficiency_from_graph2(p):
-	g = net.powerlaw_cluster_graph(300, 4, p)
+def clustering_coefficiency_from_graph(p):
+	g = net.watts_strogatz_graph(300, 4, p)
 	c_list = algo.clustering(g).values()
 	return (sum(c_list) / len(c_list), net.diameter(g))
 
@@ -25,10 +20,10 @@ c_list = []
 d_list = []
 
 for p in p_list:
-	pair = clustering_coefficiency_from_graph1(p)
-	c_list.append(pair[0])
-	d_list.append(pair[1])
-	print pair
+  pair = clustering_coefficiency_from_graph(p)
+  c_list.append(pair[0])
+  d_list.append(pair[1])
+  print pair
 
 plt.figure(1)
 plt.subplot(2,1,1)	
