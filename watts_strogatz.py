@@ -20,10 +20,10 @@ c_list = []
 d_list = []
 
 for p in p_list:
-  pair = clustering_coefficiency_from_graph(p)
-  c_list.append(pair[0])
-  d_list.append(pair[1])
-  print pair
+	pair = clustering_coefficiency_from_graph(p)
+	c_list.append(pair[0])
+	d_list.append(pair[1])
+	print pair
 
 plt.figure(1)
 plt.subplot(2,1,1)	
