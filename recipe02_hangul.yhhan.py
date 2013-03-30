@@ -17,4 +17,9 @@ WORLD_WOE_ID = 1132599 # woeid = 1132599 --> Seoul
 trends_location = api.trends_location(WORLD_WOE_ID)
 
 for trend in trends_location[0]['trends']:
-  print urllib2.unquote(trend['query'].encode('utf-8')).decode('utf-8') 
+  print urllib2.unquote(trend['query'].encode('utf-8')).decode('utf-8')
+
+print
+	
+for trend in trends_location[0]['trends']:
+	print trend['name']  
