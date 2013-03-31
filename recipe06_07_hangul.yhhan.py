@@ -7,9 +7,10 @@ import json
 import tweepy
 import networkx as nx
 import re
+import matplotlib.pyplot as plt
 
 def get_rt_origins(tweet):
-  rt_patterns = re.compile(r"(RT|via)((?:\b\W*@\w+)+)", re.IGNORECASE)
+	rt_patterns = re.compile(r"(RT|via)((?:\b\W*@\w+)+)", re.IGNORECASE)
 	rt_origins = []
 
 	try: 
@@ -65,3 +66,5 @@ if __name__ == '__main__':
 	print >> sys.stderr, "Num connected components:", len(nx.connected_components(g.to_undirected()))
 	print >> sys.stderr, "Node degrees:", sorted(nx.degree(g))
 	
+	nx.draw(g)
+	plt.show()
