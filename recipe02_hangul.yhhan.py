@@ -14,7 +14,7 @@ auth.set_access_token(key='60838213-Rd9hm2lwlTfy60f661z46mPCI17AROCaTF6Rox255', 
 api = tweepy.API(auth)
 WORLD_WOE_ID = 1132599 # woeid = 1132599 --> Seoul
 
-trends_location = api.trends_location(WORLD_WOE_ID)
+trends_location = api.trends_place(WORLD_WOE_ID)
 
 for trend in trends_location[0]['trends']:
   print urllib2.unquote(trend['query'].encode('utf-8')).decode('utf-8')
