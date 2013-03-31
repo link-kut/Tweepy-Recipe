@@ -36,7 +36,9 @@ for page in range(1, MAX_PAGES+1):
 	search_results += api.search(q=q, rpp=RESULTS_PER_PAGE, page=page)
 
 for tweet in search_results:
-	print tweet
-	print "User '%s(%s)' uploads the tweet:\n%s \n" % (tweet.from_user, tweet.from_user_id, tweet.text)
+	print "Tweet ID is %s" % (tweet.id)
+	print "User is %s(%s)" % (tweet.from_user, tweet.from_user_id)
 	print "Created at %s" % (tweet.created_at)
-	print "Source is %s" % (tweet.source)	
+	print "Source is %s" % (tweet.source)
+	print "The tweet is:\n%s" % (tweet.text)
+	print
