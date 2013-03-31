@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
-# tweepy search - http://stackoverflow.com/questions/3256981/tweepy-api-how-to-get-a-users-id-from-a-status-searchresult-object
+# Refer to:
+# http://stackoverflow.com/questions/3256981/tweepy-api-how-to-get-a-users-id-from-a-status-searchresult-object
+# https://dev.twitter.com/docs/api/1.1/get/search/tweets
 
 import sys
 import tweepy
@@ -14,7 +16,7 @@ api = tweepy.API(auth)
 
 WORLD_WOE_ID = 1132599  #http://woeid.rosselliot.co.nz/lookup
 
-tren = api.trends_location(WORLD_WOE_ID)
+tren = api.trends_place(WORLD_WOE_ID)
 	
 trends = [ trend['name'] for trend in tren[0]['trends'] ]
 
@@ -36,3 +38,5 @@ for page in range(1, MAX_PAGES+1):
 for tweet in search_results:
 	print tweet
 	print "User '%s(%s)' uploads the tweet:\n%s \n" % (tweet.from_user, tweet.from_user_id, tweet.text)
+	print "Created at %s" % (tweet.created_at)
+	print "Source is %s" % (tweet.source)	
