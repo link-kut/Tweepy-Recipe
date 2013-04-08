@@ -2,6 +2,7 @@
 import tweepy
 import networkx as net
 import matplotlib.pyplot as plt
+import sys
 
 def getFollowers(g, api, user_id):
 	for page in tweepy.Cursor(api.followers_ids, id=user_id).pages():
@@ -23,16 +24,15 @@ def snowball_sampling(g, api, center_id, max_depth=1, current_depth=0, center_li
 
 if __name__ == '__main__':
 	userScreenName = sys.argv[1]
-	oauthId = sys.argv[2]
-	
+
 	g = net.DiGraph()
-		
+
 	auth = tweepy.OAuthHandler(consumer_key='u6PzLjPnLzSEmYMJzYjFw', consumer_secret='qROGgsYiOmXwBbZUAfxV0Wx13SuD0ro4LyvPOXVL12E')
 	auth.set_access_token(key='60838213-Rd9hm2lwlTfy60f661z46mPCI17AROCaTF6Rox255', secret='t19PCabTmNO4DGBoT3WTJ2UASSO2AO9bBAkrorVK8')
 	api = tweepy.API(auth)
 
 	user_id = api.get_user(userScreenName).id
-	snowball_sampling(g, api, user_id, max_depth=2)
+	snowball_sampling(g, api, user_id, max_depth=1)
 	print "Complete to create %s's snowball network...\n" % userScreenName
 	net.draw(g)
 	plt.show()
