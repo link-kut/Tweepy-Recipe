@@ -4,7 +4,7 @@ import networkx as net
 import matplotlib.pyplot as plt
 
 def getFollowers(g, api, user_id):
-  for page in tweepy.Cursor(api.followers_ids, id=user_id).pages():
+	for page in tweepy.Cursor(api.followers_ids, id=user_id).pages():
 		for followerId in page:
 			g.add_edge(followerId, user_id)
 	print "End of followers sampling for %s\n" % (user_id)
