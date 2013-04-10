@@ -7,7 +7,7 @@ import time
 import sys
 import json
 
-connection = mdb.connect(host="127.0.0.1", port=3306, user="root", passwd="0113", db="twitter_user")
+connection = mdb.connect(host="127.0.0.1", port=3306, user="root", passwd="", db="twitter_user")
 connection.query("set character_set_connection=utf8;")
 connection.query("set character_set_server=utf8;")
 connection.query("set character_set_client=utf8;")
