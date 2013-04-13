@@ -8,7 +8,7 @@ from BeautifulSoup import BeautifulStoneSoup
 
 URL = sys.argv[1]
 
-# Some parameters you can use to tune the core algorithm.
+# Some parameters you can use to tune the core algorithm.#
 
 N = 100 # Number of words to consider
 CLUSTER_THRESHOLD = 5 # Distance between words to consider
