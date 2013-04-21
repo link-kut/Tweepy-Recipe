@@ -7,7 +7,7 @@ import functools
 
 SCREEN_NAME = sys.argv[2]
 MAX_IDS = int(sys.argv[3])
-TYPE  = sys.argv[4]	
+TYPE	= sys.argv[4]	
 if __name__ == '__main__':
 	# Not authenticating lowers your rate limit to 150 requests per hr.
 	# Authenticate to get 350 requests per hour.
@@ -28,14 +28,16 @@ if __name__ == '__main__':
 	while cursor != 0:
 		# Use make_twitter_request via the partially bound callable...
 		if(MAX_IDS > 5000): 
-			count = 5000
+			cnt = 5000
+		else:
+			cnt = MAX_IDS
 		if(TYPE == str(0)):
-			response = get_friends_ids(screen_name=SCREEN_NAME, cursor=cursor,count= MAX_IDS)
+			response = get_friends_ids(screen_name=SCREEN_NAME, cursor=cursor,count = cnt)
 		elif(TYPE == str(1)):
-			response = get_followers_ids(screen_name=SCREEN_NAME, cursor=cursor,count= MAX_IDS)			
+			response = get_followers_ids(screen_name=SCREEN_NAME, cursor=cursor,count = cnt)			
 		#ids		
 		ids += response[0]
-		
+		#print response[1]
 		#next cursor	
 		cursor = response[1][1]
 		# Consider storing the ids to disk during each iteration to provide an
