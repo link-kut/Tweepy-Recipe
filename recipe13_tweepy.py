@@ -7,7 +7,7 @@ import functools
 
 SCREEN_NAME = sys.argv[2]
 MAX_IDS = int(sys.argv[3])
-TYPE	= sys.argv[4]	
+TYPE	= sys.argv[4]		# 0 : Friends,   1 :  Follows 
 if __name__ == '__main__':
 	# Not authenticating lowers your rate limit to 150 requests per hr.
 	# Authenticate to get 350 requests per hour.
