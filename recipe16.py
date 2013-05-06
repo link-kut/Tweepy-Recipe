@@ -3,7 +3,7 @@ import tweepy
 
 #get child nodes
 def get_ids(api, iden):
-  cursor = tweepy.Cursor(api.followers_ids, id = iden).iterator
+	cursor = tweepy.Cursor(api.followers_ids, id = iden).iterator
 	followers = []
 
 	while cursor.next_cursor != 0:
@@ -34,15 +34,18 @@ if __name__ == '__main__':
 	queue = {215661128: False} #ladofa9's id
 
 	while len(queue) < 1000000:
-		#start traverse
+		current_targets = [];
 		for key, value in queue.iteritems():
-			if (value == True):
-				continue
-			current_ids = get_ids(api, key)
+			if (value == False):
+				current_targets.append(key)
+
+		#start traverse
+		for target_ids in current_targets:
+			followers = get_ids(api, target_ids)
 			queue.update({key: True})
 
 			#for each user		
-			for iden in current_ids:
+			for iden in followers:
 				if not queue.has_key(iden):
 					queue.update({iden: False})
 					print 'saving {} on queue'.format(iden)
@@ -51,4 +54,5 @@ if __name__ == '__main__':
 					#info = get_information(api, iden)
 					#informations.update({iden: info})
 		print 'current queue .. {}'.format(len(queue))
+		time.sleep(3)
 		queue
