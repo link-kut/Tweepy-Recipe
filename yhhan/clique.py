@@ -8,6 +8,10 @@ g=net.Graph()
 g.add_edges_from([(1,2), (1,3), (1,4), (2,3), (3,4), (4,5), (4,6), (5,6), (5,7), (5,8), (6,7), (6,8), (7,8), (7,9)])
 
 h_list = list(algo.find_cliques(g))
+print h_list
 h = net.subgraph(g, h_list[0])
 net.draw(h)
 plt.show()
+
+u_list = list(algo.k_clique_communities(g, 3)) # clique percolation method with k=3
+print u_list 
