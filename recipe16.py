@@ -29,6 +29,7 @@ if __name__ == '__main__':
 	api = myauth.get_api()
 	queue = {} #traversing target list
 	informations = {} #collected information
+	edges = []
 
 	#initialize queue
 	queue = {215661128: False} #ladofa9's id
@@ -46,6 +47,7 @@ if __name__ == '__main__':
 
 			#for each user		
 			for iden in followers:
+				edges.append([iden, target_ids])
 				if not queue.has_key(iden):
 					queue.update({iden: False})
 					print 'saving {} on queue'.format(iden)
