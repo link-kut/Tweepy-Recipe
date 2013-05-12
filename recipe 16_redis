@@ -5,22 +5,6 @@ import return_api
 from recipe__setwise_operations import get_redis_id
 
 
-def get_followers(api, iden):
-  cursor = tweepy.Cursor(api.followers_ids, id = iden).iterator
-	followers = []
-
-	user_info = api.get_user(iden)
-	if (user_info.followers_count != 0):
-		while cursor.next_cursor != 0:
-			try:
-				print 'calling next page of {}'.format(iden)
-				c_followers = cursor.next()
-				followers += c_followers
-			except tweepy.error.TweepError as e:
-				print e
-				time.sleep(60)
-		
-	return followers
 #get friends nodes
 def get_friends(api, iden):
 	cursor = tweepy.Cursor(api.friends_ids, id = iden).iterator
