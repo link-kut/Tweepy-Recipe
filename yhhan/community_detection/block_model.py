@@ -15,6 +15,6 @@ S = [[0.0 for i in range(1,3)] for k in range(1,10)]
 S = np.mat(S)
 S[:,0] += v[:,0]
 S[:,1] += v[:,1]
-B = np.diag((w[0], w[1])) # diagonal matrix built with the top 2 eigenvalues of p2
+B = np.diag((w[0], w[1])) # diagonal matrix built with the top 2 eigenvalues of adj_m
 
 labels = Pycluster.kcluster(S, 2)
