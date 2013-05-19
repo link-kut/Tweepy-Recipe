@@ -14,7 +14,7 @@ p = np.mat(p)
 one = [1 for i in range(1,10)]
 one = np.mat(one).T
 
-identity = np.mat(np.identity(9))
+identity = np.identity(9)
 
 sub1 = np.subtract(identity, (1.0 / 9.0) * one * one.T)  # np.subtract - element-wise matrix subtract
 sub2 = np.multiply(p, p) # np.multiply - element-wise matrix multiplication
